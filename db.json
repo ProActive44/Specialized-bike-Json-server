@@ -394,14 +394,235 @@
                 "black": "https://assets.specialized.com/i/specialized/95122-70_TERO-30-OAKGRNMET-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
                 "length" : 2
             }
+        },
+        {
+            "id":31,
+            "name":"Hotwalk",
+            "rating": 4.0,
+            "price": 199,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "pink": "https://assets.specialized.com/i/specialized/94019-01_HTRK_HOTWALK-19_ACDPNK-NICEBLU_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/94019-03_HTRK_HOTWALK-19_NENBLU-WHT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/94019-02_HTRK_HOTWALK-19_FLORED-SLT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":32,
+            "name":"Riprock Coaster 12",
+            "rating": 4.5,
+            "price": 234,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "pink": "https://assets.specialized.com/i/specialized/96518-71_RIP_CSTR-12_ACDPRP-BLK-WHT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/96518-72_RIP_CSTR-12_NENBLU-BLK-WHT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/B6517-90_RIP_CSTR-12_CNDYRED-HYP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "white": "https://assets.specialized.com/i/specialized/B6517-92_RIP_CSTR-12_METWHTSIL-RFPNK-MXORG_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 4
+            }
+        },
+        {
+            "id":33,
+            "name":"Jett 20 Single Speed",
+            "rating": 4.2,
+            "price": 324,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/92722-30_JETT-20-SINGLE-SPEED_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/92722-31_JETT-20-SINGLE-SPEED_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "white": "https://assets.specialized.com/i/specialized/92722-32_JETT-20-SINGLE-SPEED_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":34,
+            "name":"Riprock 20",
+            "rating": 4.6,
+            "price": 599,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "red": "https://assets.specialized.com/i/specialized/96522-70_RIPROCK-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/96522-72_RIPROCK-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "pink": "https://assets.specialized.com/i/specialized/96522-73_RIPROCK-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":35,
+            "name":"Jett 16 Single Speed",
+            "rating": 4.4,
+            "price": 274,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/92722-10_JETT-16-SINGLE-SPEED_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/92722-12_JETT-16-SINGLE-SPEED_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/92722-11_JETT-16-SINGLE-SPEED_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":36,
+            "name":"Riprock Coaster 16",
+            "rating": 4.4,
+            "price": 249,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/B6517-93_RIP_CSTR-16_LTSIL-MXORG-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/B6517-91_RIP_CSTR-16_TARBLK-EMDGRN-HYP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/96518-71_RIP_CSTR-16_CNDYRED-BLK-WHT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "white": "https://assets.specialized.com/i/specialized/96518-72_RIP_CSTR-16_METWHTSIL-ACDPRP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 4
+            }
+        },
+        {
+            "id":37,
+            "name":"Riprock Expert 24",
+            "rating": 4.6,
+            "price": 1199,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/96522-30_RIPROCK-EXPERT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/96522-32_RIPROCK-EXPERT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/96522-31_RIPROCK-EXPERT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":38,
+            "name":"Riprock Coaster 20",
+            "rating": 4.1,
+            "price": 299,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "green": "https://assets.specialized.com/i/specialized/B6517-90_RIP_CSTR-20_MONGRN-NRDCRED-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/B6517-92_RIP_CSTR-20_RYLBLU-MXORG-WHT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "pink": "https://assets.specialized.com/i/specialized/B6517-91_RIP_CSTR-20_RFPNK-DPFUS-METWHTSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":39,
+            "name":"Jett 20",
+            "rating": 4.4,
+            "price": 399,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/92722-50_JETT-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/92722-52_JETT-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/92722-51_JETT-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":40,
+            "name":"Jett 24",
+            "rating": 4.5,
+            "price": 474,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/92722-72_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/92722-71_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "orange": "https://assets.specialized.com/i/specialized/92722-73_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "white": "https://assets.specialized.com/i/specialized/92722-70_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/92722-74_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 5
+            }
+        },
+        {
+            "id":41,
+            "name":"Turbo Levo",
+            "rating": 4.5,
+            "price": 474,
+            "type" : "Bike",
+            "category":"Kids",
+            "images":{
+                "white": "https://www.specialized.com/medias/TRBO-1967-ElectricBikes-SL-Trail-LevoSL-1320x800.jpg?context=bWFzdGVyfGltYWdlc3wxNjYyOTl8aW1hZ2UvanBlZ3xoMzIvaDFmLzkzMjA4NzIwODM0ODYvVFJCTy0xOTY3X0VsZWN0cmljQmlrZXNfU0xfVHJhaWxfTGV2b1NMXzEzMjB4ODAwLmpwZ3wxMGY5ZjE0ZGJiN2FhNzc3OTZmMzViZjhiZWYxN2Q3NDMxM2UwMjFlYjQ5ZWJjY2JhODlkMWEzMWQxNzg0OGMw",
+                "red": "https://assets.specialized.com/i/specialized/92722-71_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 5
+            }
         }
     ],
     "cart":[
-        
+        {
+            "id":25,
+            "name":"Turbo Como 5.0",
+            "rating": 4.4,
+            "price": 5250,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "black": "https://assets.specialized.com/i/specialized/90422-30_COMO-50-CSTBLK-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "pink": "https://assets.specialized.com/i/specialized/90422-33_COMO-50-SND-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/90422-32_COMO-50-REDTNT-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":26,
+            "name":"Turbo Tero X 5.0",
+            "rating": 4.2,
+            "price": 5050,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "black": "https://assets.specialized.com/i/specialized/91622-30_TERO-X-50-29-REDONYX-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/91622-31_TERO-X-50-29-OAKGRNMET-OAKGRN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":27,
+            "name":"Turbo Tero X 6.0",
+            "rating": 4.2,
+            "price": 6500,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/91622-11_TERO-X-60-29-MORNMST-DKNVY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91622-10_TERO-X-60-29-BLK-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        }
     ],
 
     "wishList" : [
-        
+        {
+            "id":10,
+            "name":"Turbo Tero X 6.0",
+            "rating": 4.5,
+            "price": 6050,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/91622-11_TERO-X-60-29-MORNMST-DKNVY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91622-10_TERO-X-60-29-BLK-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":11,
+            "name":"Tarmac SL7 Comp - Rival eTap AXS",
+            "rating": 4.0,
+            "price": 5050,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/90622-50_TARMAC-SL7-COMP-TLTNT-BLK-LTSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "white": "https://assets.specialized.com/i/specialized/90622-51_TARMAC-SL7-COMP-METWHTSIL-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        }
     ]
 
 }
