@@ -2,49 +2,274 @@
     "products":[
         {
             "id":1,
-            "name":"Diverge Elite E5",
-            "type":"Bike",
-            "price":2000,
+            "name":"Turbo Levo SL Comp Carbon",
+            "rating":3.5,
+            "price":8000,
+            "type" : "Bike",
             "category":"Mountain",
             "images":{
-                "orange": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "black" : "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "lightBlue" : "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "orange": "https://assets.specialized.com/i/specialized/96822-52_LEVO-SL-COMP-CARBON-BLZ-BLK-SILDST_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black" : "https://assets.specialized.com/i/specialized/96822-53_LEVO-SL-COMP-CARBON-DOP-SND-SILDST_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":2,
+            "name":"S-Works Epic",
+            "rating":4.6,
+            "price":12000,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "red": "https://assets.specialized.com/i/specialized/90323-01_EPIC-SW-REDTNT-BLKTNT-FLKSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black" : "https://assets.specialized.com/i/specialized/90323-00_EPIC-SW-PRPTNT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":3,
+            "name":"S-Works Epic EVO LTD",
+            "rating":4.5,
+            "price":11000,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "black" : "https://assets.specialized.com/i/specialized/94823-02_EPIC-EVO-SW-LTD-METOBSD-BRSHCP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":4,
+            "name":"S-Works Stumpjumper",
+            "rating":4.2,
+            "price":11000,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "silver": "https://assets.specialized.com/i/specialized/93323-00_SJ-SW-BLKPRL-BRSHBLKCP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":5,
+            "name":"Turbo Levo Comp Alloy",
+            "rating": 4.0,
+            "price": 7500,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "red": "https://assets.specialized.com/i/specialized/95222-52_LEVO-COMP-ALLOY-FLORED-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95222-50_LEVO-COMP-ALLOY-BLK-DOVGRY-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/95222-51_LEVO-COMP-ALLOY-CBLT-LTSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/95222-53_LEVO-COMP-ALLOY-SGEGRN-CLGRY-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 4
+            }
+        },
+        {
+            "id":6,
+            "name":"Rockhopper Elite 29",
+            "rating": 3.2,
+            "price": 1100,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "red": "https://assets.specialized.com/i/specialized/91520-44_ROCKHOPPER-ELITE-29-REDWD-SPR_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "pink": "https://assets.specialized.com/i/specialized/91520-43_ROCKHOPPER-ELITE-29-BLSH-TARBLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/91520-45_ROCKHOPPER-ELITE-29-CSTBLK-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":7,
+            "name":"Turbo Levo Expert",
+            "rating": 3.9,
+            "price": 10000,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "yellow": "https://assets.specialized.com/i/specialized/95223-31_LEVO-EXPERT-CARBON-HRVGLD-OBSD_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95223-30_LEVO-EXPERT-CARBON-OBSD-TPE_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":8,
+            "name":"Rockhopper Elite 29",
+            "rating": 3.0,
+            "price": 1150,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/91522-43_ROCKHOPPER-ELITE-29-ARCTBLU-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/91522-45_ROCKHOPPER-ELITE-29-DOP-SND_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91522-44_ROCKHOPPER-ELITE-29-SGEGRN-OAKGRN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":9,
+            "name":"Stumpjumper Pro",
+            "rating": 3.5,
+            "price": 8050,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "pink": "https://assets.specialized.com/i/specialized/93323-10_SJ-PRO-RSTDRED-DOVGRY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":10,
+            "name":"Turbo Tero X 6.0",
+            "rating": 4.5,
+            "price": 6050,
+            "type" : "Bike",
+            "category":"Mountain",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/91622-11_TERO-X-60-29-MORNMST-DKNVY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91622-10_TERO-X-60-29-BLK-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":11,
+            "name":"Tarmac SL7 Comp - Rival eTap AXS",
+            "rating": 4.0,
+            "price": 5050,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/90622-50_TARMAC-SL7-COMP-TLTNT-BLK-LTSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "white": "https://assets.specialized.com/i/specialized/90622-51_TARMAC-SL7-COMP-METWHTSIL-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":12,
+            "name":"Diverge Sport Carbon",
+            "rating": 3.5,
+            "price": 3050,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/95422-60_DIVERGE-SPORT-CARBON-WHTSGE-OAKGRN-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95422-62_DIVERGE-SPORT-CARBON-SMK-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "yellow": "https://assets.specialized.com/i/specialized/95422-61_DIVERGE-SPORT-CARBON-LMSTN-BLK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":13,
+            "name":"Roubaix Sport",
+            "rating": 3.5,
+            "price": 3050,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/94422-60_ROUBAIX-SPORT-DOVGRY-CLGRY-VIVCRL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "pink": "https://assets.specialized.com/i/specialized/94422-60_ROUBAIX-SPORT-DOVGRY-CLGRY-VIVCRL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/94422-60_ROUBAIX-SPORT-DOVGRY-CLGRY-VIVCRL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":14,
+            "name":"S-Works Aethos - SRAM Red eTap AXS",
+            "rating": 4.5,
+            "price": 13750,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "yellow": "https://assets.specialized.com/i/specialized/97222-02_AETHOS-SW-ETAP-CARB-CMLNEYRS-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":15,
+            "name":"Diverge STR Pro",
+            "rating": 4.1,
+            "price": 8750,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/97222-02_AETHOS-SW-ETAP-CARB-CMLNEYRS-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":16,
+            "name":"Crux Pro",
+            "rating": 3.9,
+            "price": 8200,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/91423-10_CRUX-PRO-DPLAKEMET-GRNPRL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":17,
+            "name":"S-Works Crux",
+            "rating": 4.4,
+            "price": 12250,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/91423-00_CRUX-SW-BRCH-RED-GLDPRL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91423-01_CRUX-SW-METDKNVY-MYSBLU-MNSHDWMET_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":18,
+            "name":"Diverge E5",
+            "rating": 3.4,
+            "price": 1300,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "grey": "https://assets.specialized.com/i/specialized/95422-72_DIVERGE-E5-SMK-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/95422-70_DIVERGE-E5-CSTBTLSHP-SILDST-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "yellow": "https://assets.specialized.com/i/specialized/95422-71_DIVERGE-E5-BRSYYEL-BLK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":19,
+            "name":"Diverge Elite E5",
+            "rating": 3.6,
+            "price": 2000,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "blue": "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":20,
+            "name":"Diverge Comp E5",
+            "rating": 3.7,
+            "price": 2500,
+            "type" : "Bike",
+            "category":"Road",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/95422-52_DIVERGE-E5-COMP-SPR-OAKGRNMET-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95422-53_DIVERGE-E5-COMP-TARBLK-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/95422-54_DIVERGE-E5-COMP-MRN-LTSIL-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
                 "length" : 3
             }
         }
     ],
     "cart":[
-        {
-            "id":1,
-            "name":"Diverge Elite E5",
-            "type":"Bike",
-            "price":2000,
-            "category":"Mountain",
-            "images":{
-                "orange": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "black" : "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "lightBlue" : "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "length" : 3
-            }
-        }
-
+        
     ],
 
     "wishList" : [
-        {
-            "id":1,
-            "name":"Diverge Elite E5",
-            "type":"Bike",
-            "price":2000,
-            "category":"Mountain",
-            "images":{
-                "orange": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "black" : "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "lightBlue" : "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "length" : 3
-            }
-        }
+        
     ]
 
 }
