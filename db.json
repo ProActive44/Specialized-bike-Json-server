@@ -1,0 +1,50 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Diverge Elite E5",
+            "type":"Bike",
+            "price":2000,
+            "category":"Mountain",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black" : "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "lightBlue" : "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        }
+    ],
+    "cart":[
+        {
+            "id":1,
+            "name":"Diverge Elite E5",
+            "type":"Bike",
+            "price":2000,
+            "category":"Mountain",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black" : "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "lightBlue" : "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        }
+
+    ],
+
+    "wishList" : [
+        {
+            "id":1,
+            "name":"Diverge Elite E5",
+            "type":"Bike",
+            "price":2000,
+            "category":"Mountain",
+            "images":{
+                "orange": "https://assets.specialized.com/i/specialized/95422-42_DIVERGE-E5-ELITE-REDWD-WHT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black" : "https://assets.specialized.com/i/specialized/95422-41_DIVERGE-E5-ELITE-SLT-CLGRY-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "lightBlue" : "https://assets.specialized.com/i/specialized/95422-40_DIVERGE-E5-ELITE-LGNBLU-SMK-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        }
+    ]
+
+}
