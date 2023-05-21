@@ -262,6 +262,138 @@
                 "red": "https://assets.specialized.com/i/specialized/95422-54_DIVERGE-E5-COMP-MRN-LTSIL-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
                 "length" : 3
             }
+        },
+        {
+            "id":21,
+            "name":"Haul ST",
+            "rating": 3.8,
+            "price": 2800,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/91022-81_HAUL-ST-WHTMTN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91022-80_HAUL-ST-OBSD_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":22,
+            "name":"Sirrus X 4.0",
+            "rating": 3.4,
+            "price": 1279,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/92422-52_SIRRUS-X-40-WHTMTN-TPE-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/92422-51_SIRRUS-X-40-SMK-CLGRY-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "blue": "https://assets.specialized.com/i/specialized/92422-50_SIRRUS-X-40-LGNBLU-TRPTL-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":23,
+            "name":"Turbo Vado 4.0 Step-Through",
+            "rating": 4.1,
+            "price": 4000,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/95022-50_VADO-40-ST-WHTMTN-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95022-59_VADO-40-ST-CSTBLK-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/95022-58_VADO-40-ST-REDTNT-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":24,
+            "name":"Turbo Tero X 4.0",
+            "rating": 4.3,
+            "price": 4500,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "silver": "https://assets.specialized.com/i/specialized/91622-51_TERO-X-40-29-SILDST-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91622-50_TERO-X-40-29-GUN-WHTMTN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":25,
+            "name":"Turbo Como 5.0",
+            "rating": 4.4,
+            "price": 5250,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "black": "https://assets.specialized.com/i/specialized/90422-30_COMO-50-CSTBLK-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "pink": "https://assets.specialized.com/i/specialized/90422-33_COMO-50-SND-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/90422-32_COMO-50-REDTNT-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 3
+            }
+        },
+        {
+            "id":26,
+            "name":"Turbo Tero X 5.0",
+            "rating": 4.2,
+            "price": 5050,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "black": "https://assets.specialized.com/i/specialized/91622-30_TERO-X-50-29-REDONYX-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "grey": "https://assets.specialized.com/i/specialized/91622-31_TERO-X-50-29-OAKGRNMET-OAKGRN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":27,
+            "name":"Turbo Tero X 6.0",
+            "rating": 4.2,
+            "price": 6500,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/91622-11_TERO-X-60-29-MORNMST-DKNVY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/91622-10_TERO-X-60-29-BLK-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":28,
+            "name":"Sirrus X 5.0",
+            "rating": 3.9,
+            "price": 2250,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/92422-31_SIRRUS-X-50-WHTMTN-GUN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "red": "https://assets.specialized.com/i/specialized/92422-30_SIRRUS-X-50-REDTNT-CARB-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
+        },
+        {
+            "id":29,
+            "name":"Sirrus 6.0",
+            "rating": 4.0,
+            "price": 3000,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "black": "https://assets.specialized.com/i/specialized/90922-10_SIRRUS-60-METWHTSIL-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 1
+            }
+        },
+        {
+            "id":30,
+            "name":"Turbo Tero 3.0",
+            "rating": 4.1,
+            "price": 3250,
+            "type" : "Bike",
+            "category":"Active",
+            "images":{
+                "white": "https://assets.specialized.com/i/specialized/95122-71_TERO-30-WHTMTN-GUN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "black": "https://assets.specialized.com/i/specialized/95122-70_TERO-30-OAKGRNMET-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+                "length" : 2
+            }
         }
     ],
     "cart":[
