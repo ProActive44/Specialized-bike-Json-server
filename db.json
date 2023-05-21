@@ -538,19 +538,6 @@
                 "black": "https://assets.specialized.com/i/specialized/92722-74_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
                 "length" : 5
             }
-        },
-        {
-            "id":41,
-            "name":"Turbo Levo",
-            "rating": 4.5,
-            "price": 474,
-            "type" : "Bike",
-            "category":"Kids",
-            "images":{
-                "white": "https://www.specialized.com/medias/TRBO-1967-ElectricBikes-SL-Trail-LevoSL-1320x800.jpg?context=bWFzdGVyfGltYWdlc3wxNjYyOTl8aW1hZ2UvanBlZ3xoMzIvaDFmLzkzMjA4NzIwODM0ODYvVFJCTy0xOTY3X0VsZWN0cmljQmlrZXNfU0xfVHJhaWxfTGV2b1NMXzEzMjB4ODAwLmpwZ3wxMGY5ZjE0ZGJiN2FhNzc3OTZmMzViZjhiZWYxN2Q3NDMxM2UwMjFlYjQ5ZWJjY2JhODlkMWEzMWQxNzg0OGMw",
-                "red": "https://assets.specialized.com/i/specialized/92722-71_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-                "length" : 5
-            }
         }
     ],
     "cart":[
