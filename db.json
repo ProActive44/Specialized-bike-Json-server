@@ -541,46 +541,7 @@
     }
   ],
   "cart": [
-    {
-      "id": 25,
-      "name": "Turbo Como 5.0",
-      "rating": 4.4,
-      "price": 5250,
-      "type": "Bike",
-      "category": "Active",
-      "images": [
-        "https://assets.specialized.com/i/specialized/90422-30_COMO-50-CSTBLK-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-        "https://assets.specialized.com/i/specialized/90422-33_COMO-50-SND-BLKREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-        "https://assets.specialized.com/i/specialized/90422-32_COMO-50-REDTNT-SILREFL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
-      ],
-      "color": ["black", "pink", "red"]
-    },
-    {
-      "id": 26,
-      "name": "Turbo Tero X 5.0",
-      "rating": 4.2,
-      "price": 5050,
-      "type": "Bike",
-      "category": "Active",
-      "images": [
-        "https://assets.specialized.com/i/specialized/91622-30_TERO-X-50-29-REDONYX-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-        "https://assets.specialized.com/i/specialized/91622-31_TERO-X-50-29-OAKGRNMET-OAKGRN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
-      ],
-      "color": ["black", "grey"]
-    },
-    {
-      "id": 27,
-      "name": "Turbo Tero X 6.0",
-      "rating": 4.2,
-      "price": 6500,
-      "type": "Bike",
-      "category": "Active",
-      "images": [
-        "https://assets.specialized.com/i/specialized/91622-11_TERO-X-60-29-MORNMST-DKNVY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
-        "https://assets.specialized.com/i/specialized/91622-10_TERO-X-60-29-BLK-SMK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
-      ],
-      "color": ["white", "black"]
-    }
+    
   ],
 
   "wishList": [
