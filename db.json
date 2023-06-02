@@ -541,7 +541,64 @@
     }
   ],
   "cart": [
-    
+    {
+      "id": 37,
+      "name": "Riprock Expert 24",
+      "rating": 4.6,
+      "price": 1199,
+      "type": "Bike",
+      "category": "Kids",
+      "images": [
+        "https://assets.specialized.com/i/specialized/96522-30_RIPROCK-EXPERT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/96522-32_RIPROCK-EXPERT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/96522-31_RIPROCK-EXPERT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+      ],
+      "color": ["blue", "black", "red"]
+    },
+    {
+      "id": 38,
+      "name": "Riprock Coaster 20",
+      "rating": 4.1,
+      "price": 299,
+      "type": "Bike",
+      "category": "Kids",
+      "images": [
+        "https://assets.specialized.com/i/specialized/B6517-90_RIP_CSTR-20_MONGRN-NRDCRED-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/B6517-92_RIP_CSTR-20_RYLBLU-MXORG-WHT_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/B6517-91_RIP_CSTR-20_RFPNK-DPFUS-METWHTSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+      ],
+      "color": ["green", "blue", "pink"]
+    },
+    {
+      "id": 39,
+      "name": "Jett 20",
+      "rating": 4.4,
+      "price": 399,
+      "type": "Bike",
+      "category": "Kids",
+      "images": [
+        "https://assets.specialized.com/i/specialized/92722-50_JETT-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/92722-52_JETT-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/92722-51_JETT-20_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+      ],
+      "color": ["orange", "blue", "black"]
+    },
+    {
+      "id": 40,
+      "name": "Jett 24",
+      "rating": 4.5,
+      "price": 474,
+      "type": "Bike",
+      "category": "Kids",
+      "images": [
+        "https://assets.specialized.com/i/specialized/92722-72_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/92722-71_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/92722-73_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/92722-70_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+        "https://assets.specialized.com/i/specialized/92722-74_JETT-24_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+      ],
+      "color": ["blue", "red", "orange", "white", "black"]
+    }
   ],
 
   "wishList": [
